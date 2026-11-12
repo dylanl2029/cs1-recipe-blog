@@ -4,13 +4,38 @@
     border: 2px solid black;
     margin: 10px;
     object-fit:cover;
+    margin-left : auto;
+    margin-right : auto;
+    
 }
 body{
     background-color:lightgray;
+
 }
 h1{
     text-align:center;
 }
 h2{
     color:darkred
+    
+}
+#pasta{
+    border:4px solid black
+    
+}
+p{
+    margin:10px
+}
+h3{
+    margin:10px
+}
+#burger{
+    border:4px solid black;
+}
+#steak{
+    border:4px solid black;
+}
+.steak1{
+    text-align : end;
+    margin:20px
 }
